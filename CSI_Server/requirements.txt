@@ -1,0 +1,22 @@
+# Serial communication
+pyserial
+
+# Numerical processing
+numpy
+scipy
+
+# Data handling
+pandas
+
+# Visualization (디버깅용)
+matplotlib
+
+# Real-time plotting (선택)
+pyqtgraph
+
+# Machine Learning / CV (후반 대비)
+torch
+torchvision
+
+# Utilities
+tqdm
